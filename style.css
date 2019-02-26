@@ -23,6 +23,7 @@ body{
   font-size: 40px;
   letter-spacing: 4px;
   font-weight: 100;
+  font-family: 'Montserrat', sans-serif;
 }
 .box h5{
   font-size: 20px;
@@ -38,7 +39,7 @@ ul{
 }
 .box li{
   display: inline-block;
-  margin: 6px;
+  margin: 13px;
   list-style: none;
 }
 .box li a{
