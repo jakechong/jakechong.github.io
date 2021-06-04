@@ -4,7 +4,7 @@
 set -e
 
 # build
-yarn dev
+yarn build
 
 # navigate into the build output directory
 cd docs/.vuepress/dist
