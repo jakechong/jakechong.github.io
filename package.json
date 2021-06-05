@@ -6,7 +6,7 @@
     "name": "Jake",
     "email": "jakechong@berkeley.edu"
   },
-  "repository": "https://github.com/jakechong.github.io/jakechong.github.io",
+  "repository": "https://github.com/jakechong.github.io",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"

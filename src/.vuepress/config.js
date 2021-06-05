@@ -23,7 +23,7 @@ module.exports = {
     codeTheme: "gungnir-dark",
     rss: {
       site_url: "https://jakechong.github.io",
-      copyright: "jakechong 2018-2021",
+      copyright: "jakechong 2021-2021",
       count: 20
     },
     comment: {
@@ -123,7 +123,7 @@ module.exports = {
       }
     },
     footer: `
-      &copy; <a href="https://github.com/Renovamen" target="_blank">Renovamen</a> 2018-2021
+      &copy; <a href="https://github.com/jakechong" target="_blank">jakechong</a> 2021-2021
       <br>
       Powered by <a href="https://vuepress.vuejs.org" target="_blank">VuePress</a> &
       <a href="https://github.com/Renovamen/vuepress-theme-gungnir" target="_blank">Gungnir</a>

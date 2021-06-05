@@ -1,14 +1,37 @@
-/**
- * Client app enhancement file.
- *
- * https://v1.vuepress.vuejs.org/guide/basic-config.html#app-level-enhancements
- */
+import OhVueIcon from "oh-vue-icons";
 
-export default ({
-  Vue, // the version of Vue being used in the VuePress app
-  options, // the options for the root Vue instance
-  router, // the router instance for the app
-  siteData // site metadata
-}) => {
-  // ...apply enhancements for the site.
-}
+import {
+  FaFortAwesome,
+  FaPaw,
+  FaTag,
+  FaSatelliteDish,
+  RiLinkM,
+  RiSearch2Line,
+  RiGithubFill,
+  RiLinkedinBoxFill,
+  RiFacebookBoxFill,
+  RiTwitterFill,
+  RiZhihuLine,
+  RiWeiboFill,
+  HiMail,
+  AiCv,
+  RiSpaceShipFill
+} from "oh-vue-icons/icons";
+
+OhVueIcon.add(
+  FaFortAwesome,
+  FaPaw,
+  FaTag,
+  FaSatelliteDish,
+  RiLinkM,
+  RiSearch2Line,
+  RiGithubFill,
+  RiLinkedinBoxFill,
+  RiFacebookBoxFill,
+  RiTwitterFill,
+  RiZhihuLine,
+  RiWeiboFill,
+  HiMail,
+  AiCv,
+  RiSpaceShipFill
+);
