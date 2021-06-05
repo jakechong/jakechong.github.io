@@ -7,7 +7,7 @@ This is my blog, it is powered by [VuePress](https://vuepress.vuejs.org/) and th
 
 My blog used to be built with [Jekyll](https://jekyllrb.com/) (see the [`jekyll`](https://github.com/Renovamen/renovamen.github.io/tree/jekyll) branch). The Jekyll version of theme Gungnir is avalible [here](https://github.com/Renovamen/jekyll-theme-gungnir).
 
-Any way, just have fun with this blog: https://zxh.io
+Any way, just have fun with this blog: https://jakechong.github.io/
 
 
 &nbsp;
